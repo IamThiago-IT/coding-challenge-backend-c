@@ -11,10 +11,15 @@
   "license": "WTFPL",
   "dependencies": {
     "chai": "^1.9.1",
+    "fastify": "^5.2.1",
     "mocha": "^1.18.2",
     "supertest": "^0.11.0"
   },
   "engines": {
     "node": "0.10.26"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.11",
+    "typescript": "^5.8.2"
   }
 }
